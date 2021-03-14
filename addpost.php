@@ -1,9 +1,10 @@
 <?php
  include_once('./config/database.php');
  include_once('functions.php');
-  include('includes/header.php');
+
 ?>
 <?php
+   include('includes/header.php');
   include('includes/navigation.php');
 ?>
  
